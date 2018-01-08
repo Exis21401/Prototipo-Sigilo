@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Trap
+  - Enemy
+  - Platform
+  - Key
+  - Door
+  - Knife
+  - Interactuable
+  - Arma
+  - Bala
+  - DeathTrap
+  - Cubo
+  - Energia
+  - Esfera
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Suelo
+  - Jugador
+  - Plataforma
+  - "Bot\xF3n"
+  - Trampa
+  - Escalera
+  - Bala
+  - Enemigo
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

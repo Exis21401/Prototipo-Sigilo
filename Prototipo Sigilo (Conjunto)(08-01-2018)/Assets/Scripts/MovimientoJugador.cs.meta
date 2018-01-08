@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 25def4904fe18884f838ed2f8fc50bda
+timeCreated: 1509559301
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - detectarSuelo: {instanceID: 0}
+  - andar: {fileID: 8300000, guid: b2ef9ec79039f99408def7d1e473d257, type: 3}
+  - correr: {instanceID: 0}
+  - polvoMovimiento: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

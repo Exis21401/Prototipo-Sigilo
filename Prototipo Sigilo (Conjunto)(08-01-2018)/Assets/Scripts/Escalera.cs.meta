@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8d4d5ff522574a143b49c91c87405cac
+timeCreated: 1515346723
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Jugador: {fileID: 1989427009517510, guid: a7075c5a9d1c41141a299a6797d68d86, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

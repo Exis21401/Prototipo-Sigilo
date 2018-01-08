@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/EscenaJuego/MenuPrincipal.unity
+    guid: 20af7fabbdbdc96459730b58eef5dca2
+  - enabled: 1
+    path: Assets/EscenaJuego/Nivel1.unity
+    guid: 7fe11f33ee0e55248a557dbd79ea5b8f
+  - enabled: 0
+    path: Assets/EscenaJuego/Nivel.unity
+    guid: 11c741d829697e349bdf12ab72c74740
+  - enabled: 1
+    path: Assets/EscenaJuego/Victoria.unity
+    guid: 1e2cad54205db7c4eb598ef60922f11e
+  - enabled: 1
+    path: Assets/EscenaJuego/Game Over.unity
+    guid: 111614cc4e147fb40a73051147a926a4

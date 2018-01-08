@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 4276271cc7956a0478d48c838eca3e6e
+timeCreated: 1515345632
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - CuchilloEnMano: {instanceID: 0}
+  - hand: {fileID: 1989427009517510, guid: a7075c5a9d1c41141a299a6797d68d86, type: 2}
+  - KeyIcon: {fileID: 1006539915977298, guid: 4aae3dc986d30df4eaa7f0196afde433, type: 2}
+  - EsferaIcon: {fileID: 1006539915977298, guid: 4aae3dc986d30df4eaa7f0196afde433,
+      type: 2}
+  - CuboIcon: {fileID: 1006539915977298, guid: 4aae3dc986d30df4eaa7f0196afde433, type: 2}
+  - EnergiaIcon: {fileID: 1006539915977298, guid: 4aae3dc986d30df4eaa7f0196afde433,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
